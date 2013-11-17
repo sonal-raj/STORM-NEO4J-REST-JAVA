@@ -6,7 +6,7 @@ My Works on the Twitter Storm Framework at Supercomputer Education and Research 
 
 Trivia
 -------
-= Test Code for Storm Configuration testing
-= Combination with Neo4j Graph Database for efficent real time 
+# Test Code for Storm Configuration testing
+# Combination with Neo4j Graph Database for efficent real time 
   Traversals in graphs.
-  
+# Using the REST API for Storm-Neo4j communications
